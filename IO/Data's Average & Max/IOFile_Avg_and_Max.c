@@ -89,7 +89,7 @@ int main (int argc, char *argv[])
     }
   
     ifp = fopen(argv[1], "r");           //take the data i.e. INPUT FILE from the command line
-    ofp = fopen("answer-hw3", "w+");    
+    ofp = fopen("avg_max", "w+");    
     
     /*
        We can also take the input or the input file from the local directory (must be in same directory as the program)
