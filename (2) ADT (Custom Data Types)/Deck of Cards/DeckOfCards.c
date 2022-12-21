@@ -1,7 +1,6 @@
 /*
 Cards program supporting their type and number with multiple different methods of dealing, shuffling, finding probability etc.
 */
-//Advanced level C program with multiple code snippet from online sources
 //Coder: Phantom-fs
 
 #include <stdio.h>
@@ -563,6 +562,3 @@ int main(void){
 
     return 0;
 }
-
-//source & inspiration for major part of code : talzich
-//lINK : https://github.com/talzich/Coding-for-Everyone-C-and-CPP/blob/main/c_for_everyone_struct/week-2/week-2-honors.c
