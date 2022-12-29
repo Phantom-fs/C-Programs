@@ -1,6 +1,6 @@
-## Deck of Cards 
+# Deck of Cards 
 
-*Contain muliplie function such as :*
-* Dealing
-* Probability 
-* Shuffling
+* ADT Based (struct, enum)
+* Functions like Dealing, Probability, Combinations, Shuffling etc.
+* Multiple Real Life Scenarios (Flush, straight, High Card etc.)
+* Advance mathematical approach
